@@ -19,12 +19,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muhibbudins/halsa.git"
+    "url": "git+https://github.com/muhibbudins/recuint.git"
   },
   "bugs": {
-    "url": "https://github.com/muhibbudins/halsa/issues"
+    "url": "https://github.com/muhibbudins/recuint/issues"
   },
-  "homepage": "https://github.com/muhibbudins/halsa#readme",
+  "homepage": "https://github.com/muhibbudins/recuint#readme",
   "dependencies": {
     "shelljs": "^0.8.2"
   }
