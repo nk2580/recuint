@@ -3,7 +3,18 @@
   "version": "1.2.1",
   "description": "",
   "main": "index.js",
-  "keywords": [],
+  "keywords": [
+    "package-json",
+    "install-recursive",
+    "npm-install-recursive",
+    "npm",
+    "npm-scripts",
+    "npm-install",
+    "yarn",
+    "yarn-package",
+    "cli",
+    "installer"
+  ],
   "author": "Muhibbudin Suretno <muhibbudinsuretno1@gmail.com>",
   "license": "MIT",
   "repository": {
