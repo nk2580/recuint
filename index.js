@@ -5,7 +5,7 @@ const shell = require('shelljs')
 const package = (opts) => {
   const directory = path.resolve(
     __dirname,
-    (opts && opts.root) || __dirname
+    (opts && opts.root || __dirname)
   )
 
   return shell.find(directory)
