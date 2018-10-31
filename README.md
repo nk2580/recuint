@@ -4,7 +4,7 @@ Now you can install your dependencies on package.json recursively, without run *
 
 ### Documentation
 
-This library only 1KB with one dependencies ([shelljs](https://www.npmjs.com/package/shelljs)), with two option to be use. You can use this library using promise or without any callback.
+This library only 1KB with one dependency ([shelljs](https://www.npmjs.com/package/shelljs)), with two option to be use. You can use this library using promise or without any callback.
 
 |Option|Description|Default
 |:-----:|-----|-----|
