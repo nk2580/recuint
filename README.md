@@ -1,2 +1,3 @@
-# zoomable
-Zoom image for e-commerce with simple configuration
+# RECUINT
+
+Install your dependencies on package.json recursively
