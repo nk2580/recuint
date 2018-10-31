@@ -1,6 +1,6 @@
 {
   "name": "recuint",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Now you can install your dependencies on package.json recursively, without run **npm install** or **yarn** manualy on every folder on your project.",
   "main": "index.js",
   "keywords": [
