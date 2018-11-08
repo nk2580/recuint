@@ -1,7 +1,7 @@
 {
-  "name": "recuint",
+  "name": "@nk2580/recuint",
   "version": "1.2.3",
-  "description": "Now you can install your dependencies on package.json recursively, without run **npm install** or **yarn** manualy on every folder on your project.",
+  "description": "Now you can install your dependencies on package.json recursively, without using **npm install** or **yarn** manualy on every folder on your project.",
   "main": "index.js",
   "keywords": [
     "package-json",
@@ -15,16 +15,16 @@
     "cli",
     "installer"
   ],
-  "author": "Muhibbudin Suretno <muhibbudinsuretno1@gmail.com>",
+  "author": "Nik Kyriakidis <nik.k2580@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muhibbudins/recuint.git"
+    "url": "git+https://github.com/nk2580/recuint.git"
   },
   "bugs": {
-    "url": "https://github.com/muhibbudins/recuint/issues"
+    "url": "https://github.com/nk2580/recuint/issues"
   },
-  "homepage": "https://github.com/muhibbudins/recuint#readme",
+  "homepage": "https://github.com/nk2580/recuint",
   "dependencies": {
     "shelljs": "^0.8.2"
   }
