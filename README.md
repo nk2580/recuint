@@ -71,3 +71,6 @@ For more info see [Example File](example.js)
 ### License
 
 This project under MIT License
+
+### Acknowledgements
+This project is a fork of https://github.com/muhibbudins/recuint withough this work this package would not be possible
